@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 namespace HotelRoomBookingApplication.Controllers
 {
     public class AdminAppController : Controller
-    {
+    {//second commit
         AdminServiceApp service;
         ILogger<AdminAppController> log;
         public AdminAppController(ILogger<AdminAppController> log)

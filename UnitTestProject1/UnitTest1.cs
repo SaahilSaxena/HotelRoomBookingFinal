@@ -9,6 +9,7 @@ using System.Collections.Generic;
 namespace HotelRoomServiceTests
 {/// <summary>
 /// Search test method
+/// abcxyz
 /// </summary>
     [TestClass]
     public class SearchTests
